@@ -32,11 +32,11 @@ By the end of this course, students will be able to:
 
 ### Week 1-2: Introduction to Search and Optimization
 - **Topics:** 
-  - [Coourse Presentation](https://github.com/Optimization-Algorithms-Book/Code-Listings/blob/main/Course/L1-Course%20Presentation.pptx)
-  - [Introduction to search and optimization](https://github.com/Optimization-Algorithms-Book/Code-Listings/blob/main/Course/L2-Introduction%20to%20search%20and%20optimization)
+  - [Coourse Presentation](https://github.com/Dr-AlaaKhamis/Optimization-Algorithms-Course/L1-Course%20Presentation.pptx)
+  - [Introduction to search and optimization](https://github.com/Dr-AlaaKhamis/Optimization-Algorithms-Course/L2-Introduction%20to%20search%20and%20optimization)
 - **Readings:** 
-  - [Chapter 1: Introduction to search and optimization](https://github.com/Optimization-Algorithms-Book/Code-Listings/blob/main/Course/L3-Blind%20Search%20Algorithms.pptx)
-  - [Chapter 2: A deeper look at search and optimization](https://github.com/Optimization-Algorithms-Book/Code-Listings/blob/main/Course/L4-Informed%20Search%20Algorithms.pptx)
+  - [Chapter 1: Introduction to search and optimization](https://github.com/Dr-AlaaKhamis/Optimization-Algorithms-Course/L3-Blind%20Search%20Algorithms.pptx)
+  - [Chapter 2: A deeper look at search and optimization](https://github.com/Dr-AlaaKhamis/Optimization-Algorithms-Course/L4-Informed%20Search%20Algorithms.pptx)
 
 ### Week 3-4: Graph Search Algorithms
 - **Topics:** 
