@@ -48,7 +48,7 @@ By the end of this course, students will be able to:
 
 ### Week 5-6: Trajectory-Based Optimization
 - **Topics:** 
-  - Simulated annealing
+  - [Simulated annealing](https://github.com/Dr-AlaaKhamis/Optimization-Algorithms-Course/blob/main/L5-Simulated%20Annealing.pptx)
   - Tabu search
 - **Readings:** 
   - Chapter 5: Simulated annealing
